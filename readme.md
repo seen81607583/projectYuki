@@ -3,5 +3,6 @@ PHP文件都在data文件夹中
 mysql数据库初始化文本为yuki.sql
 
 前端项目文件都在yuki文件夹里面
+进到该文件夹里面打开命令窗口输入 npm install
 
 初始化数据库后按照vue的运行方式打开项目即可
